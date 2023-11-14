@@ -6,7 +6,12 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string h = "Hello";
+            string w = "World";
+            char i = '!';
+
+
+            Console.WriteLine($"{h} {w}{i}");
             Console.ReadKey();
         }
     }
