@@ -17,11 +17,11 @@ namespace GitTest
             int c = a * b;
 
             Console.Write($"{c}");
-            
+
             Console.ReadKey();
 
-            
-            P
-        }
+
+
+        }    
     }
 }
